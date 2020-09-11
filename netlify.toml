@@ -1,0 +1,9 @@
+[build]
+publish = "_site/"
+command = "eleventy"
+
+[[plugins]]
+package = "@quarva/netlify-plugin-sitrep"
+  [plugins.inputs]  
+    "allow_prod" = "true"
+    "verbose" = ""

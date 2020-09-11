@@ -1,0 +1,14 @@
+{
+  "name": "quarva.dev",
+  "version": "0.1.0",
+  "description": "quarva.dev",
+  "main": "index.js",
+  "repository": "https://github.com/quarva/quarva.dev.git",
+  "author": "Quarva <hello@quarva.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@11ty/eleventy": "^0.11.0",
+    "@quarva/netlify-plugin-sitrep": "^0.0.6"
+  }
+}
