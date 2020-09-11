@@ -66,12 +66,11 @@
     "@nodelib/fs.scandir" "2.1.3"
     fastq "^1.6.0"
 
-"@quarva/netlify-plugin-sitrep@^0.0.6":
-  version "0.0.6"
-  resolved "https://registry.yarnpkg.com/@quarva/netlify-plugin-sitrep/-/netlify-plugin-sitrep-0.0.6.tgz#b2e870dd598c64095d038994a59f62be8b5c66d4"
-  integrity sha512-Pathh66wjnEeI02pkeVavLI+xmUu2C1+m5CpmOOTBTzq6x4WK2nI/5QUfPs0icH2loPnCGd3yeocZ8Mr4O3Y4A==
+"@quarva/netlify-plugin-sitrep@^0.0.7":
+  version "0.0.7"
+  resolved "https://registry.yarnpkg.com/@quarva/netlify-plugin-sitrep/-/netlify-plugin-sitrep-0.0.7.tgz#fa4aa935432a3b33401e5b7f7f748b4b379051f7"
+  integrity sha512-241ze7VeaAnNF+2eiDMXaBSRNbhAV4eKoZU2JtXZfgTSTVTxOtlcv3SgcQmpfqfeimB7vQ28giaGDgNLMIngWA==
   dependencies:
-    dotenv "^8.2.0"
     ejs "^3.1.5"
     node-fetch "^2.6.1"
 
@@ -724,11 +723,6 @@ doctypes@^1.1.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/doctypes/-/doctypes-1.1.0.tgz#ea80b106a87538774e8a3a4a5afe293de489e0a9"
   integrity sha1-6oCxBqh1OHdOijpKWv4pPeSJ4Kk=
-
-dotenv@^8.2.0:
-  version "8.2.0"
-  resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-8.2.0.tgz#97e619259ada750eea3e4ea3e26bceea5424b16a"
-  integrity sha512-8sJ78ElpbDJBHNeBzUbUVLsqKdccaa/BXF1uPTw3GrvQTBgrQrtObr2mUrE38vzYd8cEv+m/JBfDLioYcfXoaw==
 
 easy-extender@^2.3.4:
   version "2.3.4"
